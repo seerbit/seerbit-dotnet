@@ -1,0 +1,31 @@
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.AssemblyInfo.cs
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetLibrary.deps.json
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetLibrary.runtimeconfig.json
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetLibrary.runtimeconfig.dev.json
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetLibrary.dll
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetLibrary.pdb
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.dll
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.pdb
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetLibrary.deps.json
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetLibrary.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetLibrary.runtimeconfig.dev.json
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetLibrary.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetLibrary.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.RazorAssemblyInfo.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.RazorAssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.AssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.csproj.CopyComplete
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetLibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetLibrary.pdb

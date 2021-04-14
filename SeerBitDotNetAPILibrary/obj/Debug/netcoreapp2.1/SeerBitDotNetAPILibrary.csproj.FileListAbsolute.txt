@@ -1,0 +1,20 @@
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.AssemblyInfo.cs
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.deps.json
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.dll
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.pdb
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.dll
+C:\Users\HP\source\repos\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.deps.json
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.xml
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.AssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.csproj.CopyComplete
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.pdb
