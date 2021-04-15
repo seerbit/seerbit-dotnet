@@ -66,7 +66,7 @@ public ClassConstructor(IAuthentication iAuthentication, IStandardCheckOut iStan
 }
 
  public async Task<string> TestMethod()
- {
+    {
      var token = await _IAuthentication.Token(privateKey, publicKey);
 
 //After retrieving your token following authentication proceed to pass it to the StandardCheckOut constructor along with your client object. You can then construct your payload and call the Payment() method of the StandardCheckOut class.
@@ -87,7 +87,7 @@ public ClassConstructor(IAuthentication iAuthentication, IStandardCheckOut iStan
      
      var result = await this._IStandardCheckOut.Payment(request, token);
      return result;
- }
+   }
   
 Find more examples here.
 
