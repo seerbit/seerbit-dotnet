@@ -19,29 +19,30 @@ Installation
 
 Add this dependency to your startup file:
 
-services.AddScoped<IAccount, AccountService>();
-services.AddScoped<IAuthentication, AuthenticationService>();
-services.AddScoped<IAuthorise, AuthoriseService>();
-services.AddScoped<ICard, CardService>();
-services.AddScoped<IMomo, MomoService>();
-services.AddScoped<INon3DS, Non3DSService>();
-services.AddScoped<IOrderCheckOut, OrderCheckOutService>();
-services.AddScoped<IPaymentMethod, PaymentMethodService>();
-services.AddScoped<IPreAuthorization, PreAuthorizationService>();
-services.AddScoped<IRecurrent, RecurrentService>();
-services.AddScoped<IStandardCheckOut, StandardCheckOutService>();
-services.AddScoped<ITokenize, TokenizeService>();
-services.AddHttpClient<Interchange>();
-services.Configure<SeerBitSettingsModel>(Configuration.GetSection("seerBitSettings"));
+    services.AddScoped<IAccount, AccountService>();
+    services.AddScoped<IAuthentication, AuthenticationService>();
+    services.AddScoped<IAuthorise, AuthoriseService>();
+    services.AddScoped<ICard, CardService>();
+    services.AddScoped<IMomo, MomoService>();
+    services.AddScoped<INon3DS, Non3DSService>();
+    services.AddScoped<IOrderCheckOut, OrderCheckOutService>();
+    services.AddScoped<IPaymentMethod, PaymentMethodService>();
+    services.AddScoped<IPreAuthorization, PreAuthorizationService>();
+    services.AddScoped<IRecurrent, RecurrentService>();
+    services.AddScoped<IStandardCheckOut, StandardCheckOutService>();
+    services.AddScoped<ITokenize, TokenizeService>();
+    services.AddHttpClient<Interchange>();
+    services.Configure<SeerBitSettingsModel>(Configuration.GetSection("seerBitSettings"));
 
 Add this dependency to your appsetting file:
 
-"seerBitSettings": {
-    "TestBaseUrl": "https://seerbitapi.com/api/v2/",
-    "LiveBaseUrl": "https://seerbitapi.com/api/v2/",
-    "PilotBaseUrl": "https://seerbitapi.com/api/v2/",
-    "Environment": "TEST"
-  }
+    "seerBitSettings": 
+    {
+        "TestBaseUrl": "https://seerbitapi.com/api/v2/",
+        "LiveBaseUrl": "https://seerbitapi.com/api/v2/",
+        "PilotBaseUrl": "https://seerbitapi.com/api/v2/",
+        "Environment": "TEST"
+    }
 
 Contributing
 You can contribute to this repository so that anyone can benefit from it:
@@ -59,13 +60,13 @@ Instantiate a client and set the parameters. Then perform service authentication
 private readonly IAuthentication _IAuthentication;
 private readonly IStandardCheckOut _IStandardCheckOut;
 
-public ClassConstructor(IAuthentication iAuthentication, IStandardCheckOut iStandardCheckOut)
-{
-  _IAuthentication = iAuthentication;
-  this._IStandardCheckOut = iStandardCheckOut;
-}
+    public ClassConstructor(IAuthentication iAuthentication, IStandardCheckOut iStandardCheckOut)
+    {
+         _IAuthentication = iAuthentication;
+         this._IStandardCheckOut = iStandardCheckOut;
+    }
 
- public async Task<string> TestMethod()
+    public async Task<string> TestMethod()
     {
      var token = await _IAuthentication.Token(privateKey, publicKey);
 
