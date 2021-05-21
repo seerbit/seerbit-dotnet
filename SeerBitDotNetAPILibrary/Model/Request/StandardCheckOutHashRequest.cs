@@ -9,7 +9,7 @@ namespace SeerBitDotNetAPILibrary.Model.Request
     public class StandardCheckOutHashRequest
     {
 
-        public string privateKey { get; set; }
+        //public string privateKey { get; set; }
         public string publicKey { get; set; }
         public string amount { get; set; }
         public string currency { get; set; }

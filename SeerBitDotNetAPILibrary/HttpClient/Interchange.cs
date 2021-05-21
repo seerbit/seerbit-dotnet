@@ -19,8 +19,6 @@ namespace SeerBitDotNetAPILibrary.Exchange
             _client = client;
         }
 
-        //HttpClient _client = new HttpClient();
-
         public async Task<HttpResponseMessage> Post(string url, string key, string json)
         {
 

@@ -10,7 +10,7 @@ namespace SeerBitDotNetAPILibrary.Model.Request
     public class AuthoriseRequest
     {
         public string paymentReference { get; set; }
-        public string privateKey { get; set; }
+        //public string privateKey { get; set; }
         public string publicKey { get; set; }
         public string cardNumber { get; set; }
         public string cvv { get; set; }

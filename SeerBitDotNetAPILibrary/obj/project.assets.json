@@ -732,7 +732,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\HP\\Documents\\Visual Studio 2017\\Projects\\SeerBitDotNetLibrary\\SeerBitDotNetAPILibrary\\SeerBitDotNetAPILibrary.csproj",
-      "projectName": "SeerBitGateway",
+      "projectName": "SeerBit",
       "projectPath": "C:\\Users\\HP\\Documents\\Visual Studio 2017\\Projects\\SeerBitDotNetLibrary\\SeerBitDotNetAPILibrary\\SeerBitDotNetAPILibrary.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\HP\\Documents\\Visual Studio 2017\\Projects\\SeerBitDotNetLibrary\\SeerBitDotNetAPILibrary\\obj\\",

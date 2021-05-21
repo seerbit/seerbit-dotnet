@@ -9,7 +9,7 @@ namespace SeerBitDotNetAPILibrary.Model.Request
 {
     public class InitiateRequest
     {
-        public string privateKey { get; set; }
+        //public string privateKey { get; set; }
         public string publicKey { get; set; }
         public string paymentReference { get; set; }
         public string planId { get; set; }

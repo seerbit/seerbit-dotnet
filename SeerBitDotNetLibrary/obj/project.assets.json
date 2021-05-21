@@ -4839,17 +4839,17 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "SeerBitGateway/1.0.0": {
+      "SeerBit/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1"
         },
         "compile": {
-          "bin/placeholder/SeerBitGateway.dll": {}
+          "bin/placeholder/SeerBit.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SeerBitGateway.dll": {}
+          "bin/placeholder/SeerBit.dll": {}
         }
       }
     }
@@ -13164,7 +13164,7 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
-    "SeerBitGateway/1.0.0": {
+    "SeerBit/1.0.0": {
       "type": "project",
       "path": "../SeerBitDotNetAPILibrary/SeerBitDotNetAPILibrary.csproj",
       "msbuildProject": "../SeerBitDotNetAPILibrary/SeerBitDotNetAPILibrary.csproj"
@@ -13177,7 +13177,7 @@
       "Microsoft.NETCore.App >= 2.1.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.9",
       "Moq >= 4.16.1",
-      "SeerBitGateway >= 1.0.0",
+      "SeerBit >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3",
       "Swashbuckle.AspNetCore.Annotations >= 5.6.3"
     ]

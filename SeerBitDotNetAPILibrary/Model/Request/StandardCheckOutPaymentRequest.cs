@@ -9,7 +9,7 @@ namespace SeerBitDotNetAPILibrary.Model.Request
 {
     public class StandardCheckPaymentRequest
     {
-        public string privateKey { get; set; }
+        //public string privateKey { get; set; }
         public string publicKey { get; set; }
         public string amount { get; set; }
         public string currency { get; set; }
@@ -22,8 +22,7 @@ namespace SeerBitDotNetAPILibrary.Model.Request
 
         [JsonIgnore]
         public string hash { get; set; }
-
-        [JsonIgnore]
+        
         public string hashType { get; set; }
     }
 }

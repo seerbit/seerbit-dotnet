@@ -49,7 +49,7 @@ namespace SeerBitDotNetAPILibrary.Service
                 paymentReference = request.paymentReference,
                 productDescription = request.productDescription,
                 productId = request.productId,
-                publicKey = request.publicKey
+                publicKey = request.publicKey,
             };
 
             var hashReponse = await this.GenerateHash(hashRequest, token);
@@ -57,7 +57,7 @@ namespace SeerBitDotNetAPILibrary.Service
             var parsed = JObject.Parse(hashReponse.ToString());
             
             request.hash = parsed.SelectToken("data.hash.hash").Value<string>();
-            request.hashType = "sha256";
+            //request.hashType = "sha256";
 
             var fullUrl = _Client.BaseUrl + "payments";
 

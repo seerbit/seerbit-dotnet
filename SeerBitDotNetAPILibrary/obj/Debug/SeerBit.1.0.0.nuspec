@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SeerBit</id>
+    <version>1.0.0</version>
+    <authors>SeerBit</authors>
+    <owners>SeerBit</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://seerbit.com/</projectUrl>
+    <description>Payment gateway SDK for local and international transactions</description>
+    <copyright>SeerBit</copyright>
+    <repository url="https://github.com/seerbit/seerbit-dotnet" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\bin\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.dll" target="lib\netcoreapp2.1\SeerBitDotNetAPILibrary.dll" />
+  </files>
+</package>

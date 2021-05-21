@@ -38,9 +38,9 @@ namespace SeerBitDotNetAPILibrary.Service
 
                 var content = JsonConvert.SerializeObject(request);
 
-                var key = await _Authentication.Token(request.privateKey, request.publicKey);
+                //var key = await _Authentication.Token(request.privateKey, request.publicKey);
 
-                var httpResponse = await _Interchange.Post(fullUrl, key, content);
+                var httpResponse = await _Interchange.Post(fullUrl, token, content);
 
 
                 var createdTask = await httpResponse.Content.ReadAsStringAsync();
@@ -60,9 +60,9 @@ namespace SeerBitDotNetAPILibrary.Service
 
                 var content = JsonConvert.SerializeObject(request);
 
-                var key = await _Authentication.Token(request.privateKey, request.publicKey);
+                //var key = await _Authentication.Token(request.privateKey, request.publicKey);
 
-                var httpResponse = await _Interchange.Post(fullUrl, key, content);
+                var httpResponse = await _Interchange.Post(fullUrl, token, content);
 
 
                 var createdTask = await httpResponse.Content.ReadAsStringAsync();

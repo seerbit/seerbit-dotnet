@@ -25,7 +25,7 @@ namespace SeerBitDotNetLibrary.Controllers
 
         [HttpPost]
         [Route("GenerateHash/{token}")]
-        public async Task<IActionResult> GenerateHash([FromBody] StandardCheckOutHashRequest request, string token)
+        public async Task<IActionResult> GenerateHash([FromBody]StandardCheckOutHashRequest request, string token)
         {
             try
             {
@@ -49,10 +49,24 @@ namespace SeerBitDotNetLibrary.Controllers
 
         [HttpPost]
         [Route("Payment")]
-        public async Task<IActionResult> Payment([FromBody] StandardCheckPaymentRequest request, string token)
+        public async Task<IActionResult> Payment([FromBody]StandardCheckPaymentRequest request, string token)
         {
             try
             {
+                //new StandardCheckPaymentRequest
+                //{
+                //    amount = "",
+                //    callbackUrl = "",
+                //    country = "",
+                //    currency = "",
+                //    email = "",
+                //    hashType = "",
+                //    paymentReference = "",
+                //    productDescription = "",
+                //    productId = "",
+                //    publicKey = ""
+                //};
+
                 if (ModelState.IsValid)
                 {
                     var result = await this._IStandardCheckOut.Payment(request, token);

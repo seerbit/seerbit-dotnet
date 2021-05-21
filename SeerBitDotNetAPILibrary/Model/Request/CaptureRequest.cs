@@ -10,7 +10,7 @@ namespace SeerBitDotNetAPILibrary.Model.Request
     public class CaptureRequest
     {
         public string paymentReference { get; set; }
-        public string privateKey { get; set; }
+        //public string privateKey { get; set; }
         public string publicKey { get; set; }
         public string currency { get; set; }
         public string country { get; set; }

@@ -3,13 +3,15 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Authors>Sulaiman</Authors>
-    <Company>Centric Gateway</Company>
+    <Authors>SeerBit</Authors>
+    <Company>SeerBit</Company>
     <Product>SeerBit</Product>
-    <PackageId>SeerBitGateway</PackageId>
-    <Copyright>Centric Gateway</Copyright>
-    <PackageProjectUrl>https://seerbit</PackageProjectUrl>
+    <PackageId>SeerBit</PackageId>
+    <Copyright>SeerBit</Copyright>
+    <PackageProjectUrl>https://seerbit.com</PackageProjectUrl>
     <PackageLicenseUrl></PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/seerbit/seerbit-dotnet</RepositoryUrl>
+    <Description>Payment gateway SDK for local and international transactions</Description>
   </PropertyGroup>
 
   <ItemGroup>

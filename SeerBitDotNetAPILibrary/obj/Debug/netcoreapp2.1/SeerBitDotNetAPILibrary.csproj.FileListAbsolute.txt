@@ -18,3 +18,4 @@ C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDo
 C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.csproj.CopyComplete
 C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.dll
 C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\SeerBitDotNetLibrary\SeerBitDotNetAPILibrary\obj\Debug\netcoreapp2.1\SeerBitDotNetAPILibrary.csprojAssemblyReference.cache
