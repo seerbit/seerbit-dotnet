@@ -1,8 +1,8 @@
-# seerbit-dotnet
-
 <div align="center">
  <img width="400" valign="top" src="https://assets.seerbitapi.com/images/seerbit_logo_type.png">
 </div>
+
+# seerbit-dotnet
 
 Features
 The Library supports all APIs under the following services:
