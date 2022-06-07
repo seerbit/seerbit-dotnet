@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  <img width="60" valign="bottom" src="https://www.pngegg.com/en/search?q=asp.net" alt="ASP.NET">
+  <img width="60" valign="bottom" src="https://www.pngwing.com/en/free-png-dbugy" alt="ASP.NET">
    SeerBit
 </h1>
 
