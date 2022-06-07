@@ -4,10 +4,10 @@
  <img width="400" valign="top" src="https://assets.seerbitapi.com/images/seerbit_logo_type.png">
 </div>
 
-<h1 align="center">
-  <img width="60" valign="bottom" src="https://www.pngwing.com/en/free-png-dbugy" alt="ASP.NET">
-   SeerBit
-</h1>
+#<h1 align="center">
+# <img width="60" valign="bottom" src="https://www.pngwing.com/en/free-png-dbugy" alt="ASP.NET">
+# SeerBit
+#</h1>
 
 Features
 The Library supports all APIs under the following services:
