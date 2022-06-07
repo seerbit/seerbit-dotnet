@@ -1,5 +1,14 @@
 # seerbit-dotnet
 
+<div align="center">
+ <img width="400" valign="top" src="https://assets.seerbitapi.com/images/seerbit_logo_type.png">
+</div>
+
+<h1 align="center">
+  <img width="60" valign="bottom" src="https://www.pngegg.com/en/search?q=net+Framework" alt="ASP.NET">
+   SeerBit
+</h1>
+
 Features
 The Library supports all APIs under the following services:
 
